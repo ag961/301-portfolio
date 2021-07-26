@@ -502,7 +502,7 @@ class Portfolio extends React.Component {
                 <Col lg="8">
                   <h2 className="display-3">My background</h2>
                   <p className="lead text-muted">
-                  Hi, my name is Ayrat Gimranov and I am a software developer.  Originally from Tatarstan, Russia, I moved to the US as a college student and spent several years pursuing a career in healthcare. I spent a few years in the US Army as a medic and most recently worked as an RN at UW Medical Center's advanced heart failure unit. I realized I was not getting a lot of excitement from medical field, and decided to make a career change into the tech world where I could utilize the professional skills such as critical thinking, ability to function under stress, prioritizing and delegation with the goal of make our lives easier, and help us develop as individuals.
+                  Hi, my name is Ayrat Gimranov and I am a software developer.  Originally from Tatarstan, Russia, I moved to the US as a college student and spent several years pursuing a career in healthcare. Most recently I worked as an RN at University of Washington Medical Center's advanced heart failure, heart-lung transplant unit. I decided to make a shift into tech industry due to its project-based nature, where I could bring in my skills acquired in the medcial world such as critical thinking, ability to function under high stress, prioritizing and delegation of tasks. My motto is "We can change the world" and my goal is to utilize the positive impact of technology on our lives and those of future generations.
                   </p>
                 </Col>
                           
